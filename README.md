@@ -1,3 +1,5 @@
+This project is a test build done by following https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
